@@ -1,0 +1,8 @@
+
+project_id = "vkzbcqdjvcggscmkbldz"
+
+[functions.validate-document]
+verify_jwt = true
+
+[functions.validate-esports-profile]
+verify_jwt = true
