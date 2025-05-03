@@ -6,6 +6,8 @@
 
 ESports.HUB é uma plataforma inovadora projetada para conectar fãs e profissionais de eSports no Brasil. Nossa missão é criar um ecossistema completo onde entusiastas possam interagir, participar de eventos, validar seus perfis e se conectar com a comunidade de eSports brasileira.
 
+🚀 **Acesse agora:** [https://know-your-fan-furia-one.vercel.app](https://know-your-fan-furia-one.vercel.app)
+
 ## Sobre o Projeto
 
 ESports.HUB surgiu da necessidade de criar um ambiente centralizado para a comunidade brasileira de eSports. A plataforma oferece:
